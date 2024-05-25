@@ -6,7 +6,7 @@ import AudioStream from "./AudioStream";
 
 const voiceId = "21m00Tcm4TlvDq8ikWAM";
 const text = "Hello, this is a sample text to stream as speech.";
-const apiKey = "your_api_key";
+const apiKey = "042693cd11bb152181fc81056ffd4ea5";
 const voiceSettings = {
   stability: 0,
   similarity_boost: 0,
